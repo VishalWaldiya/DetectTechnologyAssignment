@@ -1,0 +1,112 @@
+[
+{
+    "model": "background_task.task",
+    "pk": 11,
+    "fields": {
+        "task_name": "account.tasks.load_fixture",
+        "task_params": "[[], {}]",
+        "task_hash": "843c46dea002aeed65e8d702a81d5b61e5ee4032",
+        "verbose_name": null,
+        "priority": 0,
+        "run_at": "2020-03-04T21:10:19Z",
+        "repeat": 3600,
+        "repeat_until": null,
+        "queue": null,
+        "attempts": 0,
+        "failed_at": null,
+        "last_error": "",
+        "locked_by": null,
+        "locked_at": null,
+        "creator_content_type": null,
+        "creator_object_id": null
+    }
+},
+{
+    "model": "background_task.completedtask",
+    "pk": 1,
+    "fields": {
+        "task_name": "account.tasks.load_fixture",
+        "task_params": "[[], {}]",
+        "task_hash": "843c46dea002aeed65e8d702a81d5b61e5ee4032",
+        "verbose_name": null,
+        "priority": 0,
+        "run_at": "2020-03-04T19:06:42.653Z",
+        "repeat": 3600,
+        "repeat_until": null,
+        "queue": null,
+        "attempts": 1,
+        "failed_at": null,
+        "last_error": "",
+        "locked_by": "3309",
+        "locked_at": "2020-03-04T19:06:42.413Z",
+        "creator_content_type": null,
+        "creator_object_id": null
+    }
+},
+{
+    "model": "background_task.completedtask",
+    "pk": 2,
+    "fields": {
+        "task_name": "account.tasks.load_fixture",
+        "task_params": "[[], {}]",
+        "task_hash": "843c46dea002aeed65e8d702a81d5b61e5ee4032",
+        "verbose_name": null,
+        "priority": 0,
+        "run_at": "2020-03-04T19:08:14.951Z",
+        "repeat": 3600,
+        "repeat_until": null,
+        "queue": null,
+        "attempts": 1,
+        "failed_at": null,
+        "last_error": "",
+        "locked_by": "3426",
+        "locked_at": "2020-03-04T19:08:14.735Z",
+        "creator_content_type": null,
+        "creator_object_id": null
+    }
+},
+{
+    "model": "background_task.completedtask",
+    "pk": 3,
+    "fields": {
+        "task_name": "account.tasks.load_fixture",
+        "task_params": "[[], {}]",
+        "task_hash": "843c46dea002aeed65e8d702a81d5b61e5ee4032",
+        "verbose_name": null,
+        "priority": 0,
+        "run_at": "2020-03-04T19:10:20.795Z",
+        "repeat": 3600,
+        "repeat_until": null,
+        "queue": null,
+        "attempts": 1,
+        "failed_at": null,
+        "last_error": "",
+        "locked_by": "3464",
+        "locked_at": "2020-03-04T19:10:20.384Z",
+        "creator_content_type": null,
+        "creator_object_id": null
+    }
+},
+{
+    "model": "background_task.completedtask",
+    "pk": 4,
+    "fields": {
+        "task_name": "account.tasks.load_fixture",
+        "task_params": "[[], {}]",
+        "task_hash": "843c46dea002aeed65e8d702a81d5b61e5ee4032",
+        "verbose_name": null,
+        "priority": 0,
+        "run_at": "2020-03-04T20:10:24.182Z",
+        "repeat": 3600,
+        "repeat_until": null,
+        "queue": null,
+        "attempts": 1,
+        "failed_at": null,
+        "last_error": "",
+        "locked_by": "3464",
+        "locked_at": "2020-03-04T20:10:23.993Z",
+        "creator_content_type": null,
+        "creator_object_id": null
+    }
+}
+]

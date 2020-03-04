@@ -27,7 +27,7 @@ class Command(BaseCommand):
             except IndexError:
                 self.stdout.write(self.style.ERROR('Insuffcient Records in Fixture'))
                 break
-        self.stdout.write(self.style.SUCCESS('All records already added'))
+        self.stdout.write(self.style.SUCCESS('All records added'))
         # import pdb; pdb.set_trace()
         # self.stdout.write(self.style.SUCCESS('Successfully loaded employe details "%s"' % 10))
         # for poll_id in options['file']:
