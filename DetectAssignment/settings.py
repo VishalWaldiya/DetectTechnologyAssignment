@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'account',
     'phonenumber_field', # Phone number
     'rest_framework', # Rest Framework
-    'django_extensions',
+    'django_extensions', # Developer Tool
+    'background_task', # To create Repeated Tasks
 ]
 
 MIDDLEWARE = [

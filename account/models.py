@@ -4,7 +4,7 @@ from phonenumber_field.modelfields import PhoneNumberField
 class EmployeeDetail(models.Model):
     """Model definition for EmployeeDetail."""
 
-    employeeId = models.CharField(max_length=500)
+    employeeId = models.BigIntegerField()
     designation = models.CharField(blank=True, max_length=500)
     date_of_joining = models.DateField(blank=True, auto_now=False, auto_now_add=False)
     name = models.CharField(blank=True, max_length=500)
