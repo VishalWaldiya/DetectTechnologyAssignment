@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'account',
     'phonenumber_field', # Phone number
     'rest_framework', # Rest Framework
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
