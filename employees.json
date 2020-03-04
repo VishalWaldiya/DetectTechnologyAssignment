@@ -1,0 +1,67 @@
+[
+{
+    "model": "account.employeedetail",
+    "pk": 1,
+    "fields": {
+        "employeeId": 101,
+        "designation": "Check",
+        "date_of_joining": "2020-03-03",
+        "name": "Check",
+        "address": "Check",
+        "phone_number": "+916363153725",
+        "email": "vishalwaldiya@gmail.com"
+    }
+},
+{
+    "model": "account.employeedetail",
+    "pk": 2,
+    "fields": {
+        "employeeId": 101,
+        "designation": "Developer",
+        "date_of_joining": "2020-03-04",
+        "name": "Teja",
+        "address": "Hydrebad",
+        "phone_number": "+916363153726",
+        "email": "teja@gmail.com"
+    }
+},
+{
+    "model": "account.employeedetail",
+    "pk": 3,
+    "fields": {
+        "employeeId": 102,
+        "designation": "Developer",
+        "date_of_joining": "2020-03-04",
+        "name": "Soumak",
+        "address": "Kolkata",
+        "phone_number": "+916363153727",
+        "email": "soumak@yahoo.com"
+    }
+},
+{
+    "model": "account.employeedetail",
+    "pk": 4,
+    "fields": {
+        "employeeId": 103,
+        "designation": "Developer",
+        "date_of_joining": "2020-03-04",
+        "name": "Rishab",
+        "address": "Chennai",
+        "phone_number": "+916363153728",
+        "email": "rishab@rediff.com"
+    }
+},
+{
+    "model": "account.employeedetail",
+    "pk": 5,
+    "fields": {
+        "employeeId": 104,
+        "designation": "Senior Developer",
+        "date_of_joining": "2020-03-04",
+        "name": "Gokul",
+        "address": "Chennai",
+        "phone_number": "+916363153729",
+        "email": "gokul@hotmail.com"
+    }
+}
+]
